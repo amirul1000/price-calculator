@@ -4,7 +4,7 @@ Price calculator in CSS and JS
 ==================================
 
 
-Youtube Tutorial : https://youtu.be/2JNjMx7B7fc
+Youtube Tutorial : https://youtu.be/mddiju8BMJE
 
 Youtube Channel : https://www.youtube.com/channel/UC2Q4oWfoMQzi6AES8Vb2vQw?view_as=subscriber
 
